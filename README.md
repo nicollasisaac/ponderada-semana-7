@@ -1,7 +1,7 @@
 
 # Ponderada Semana 7 — IEEE-CIS Fraud Detection com LSTM
 
-Trabalho desenvolvido por Henrique Cox e Nicollas Isaac. Nosso objetivo foi montar um pipeline completo para detecção de fraudes no dataset IEEE-CIS, desde ingestão e tratamento de dados até modelagem com LSTM e avaliação orientada a métricas adequadas para classe rara.
+Trabalho desenvolvido por Henrique Cox, Nicollas Isaac e Ricardo Novas. Nosso objetivo foi montar um pipeline completo para detecção de fraudes no dataset IEEE-CIS, desde ingestão e tratamento de dados até modelagem com LSTM e avaliação orientada a métricas adequadas para classe rara.
 
 ## Visão geral
 
