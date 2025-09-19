@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual env
+.venv/
+venv/
+ENV/
+
+# Jupyter/Colab
+.ipynb_checkpoints/
+*.ipynb_convert/
+*.nbconvert.*
+
+# SO / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dados grandes (ajuste conforme seu projeto)
+data/
+*.csv
+*.csv.gz
+*.zip
+
+# Logs e artefatos
+logs/
+*.log
+
+# Cache
+.cache/
+dist/
+build/
